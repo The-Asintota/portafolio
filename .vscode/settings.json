@@ -1,0 +1,16 @@
+{
+    "standard.enable": true,
+    "standard.run": "onSave",
+    "standard.autoFixOnSave": true,
+    "standard.validate": [
+        "javascript",
+        "javascriptreact"
+    ],
+    "javascript.validate.enable": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": null
+    }
+}
