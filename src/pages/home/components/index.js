@@ -1,0 +1,5 @@
+export { LayoutHome } from './LayoutHome.component'
+export { ProjectCard } from './ProjectCard.component'
+export { SocialNetworks } from './SocialNetworks.component'
+export { Description } from './Description.component'
+export { Education } from './Education.component'

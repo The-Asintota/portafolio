@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #010101;
+    background: radial-gradient(at left top, #010101, #0D0D0D);
+}
