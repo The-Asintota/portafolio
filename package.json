@@ -41,6 +41,7 @@
     "@types/node": "^20.17.30",
     "@types/react": "^18.3.20",
     "@types/react-dom": "^18.3.6",
+    "babel-preset-next": "^1.4.0",
     "eslint": "^8.57.1",
     "eslint-config-next": "14.2.4",
     "postcss": "^8.5.3",
