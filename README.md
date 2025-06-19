@@ -3,7 +3,7 @@
 🎯 Este es mi portfolio profesional como desarrollador web Full Stack. Incluye mis proyectos destacados, tecnologías que manejo, experiencia laboral, formación académica y acceso a mi CV actualizado.
 
 🔗 **Demo online**: [https://portfolio-genaro.vercel.app](https://portfolio-bottarlini.vercel.app)  
-📄 **Descargar CV**: [Ver PDF](https:/portfolio-bottarlini.vercel.app/BOTTARLNI-GENARO-CV.pdf)
+📄 **Descargar CV**: [Ver PDF](https://portfolio-bottarlini.vercel.app/BOTTARLNI-GENARO-CV.pdf)
 
 ---
 
