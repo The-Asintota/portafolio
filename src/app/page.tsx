@@ -123,7 +123,7 @@ export default function Page() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   He trabajado en diversos proyectos, desde sitios web sencillos
-                  hasta aplicaciones web complejas. Dejo algunos por aca.
+                  hasta aplicaciones web complejas.
                 </p>
               </div>
             </div>
