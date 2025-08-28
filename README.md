@@ -1,9 +1,8 @@
 # 💻 PortFolio – Carlos Andres Aguirre Ariza 💻
 
-🎯 Este es mi portfolio profesional como desarrollador web Full Stack. Incluye mis proyectos destacados, tecnologías que manejo, experiencia laboral, formación académica y acceso a mi CV actualizado.
+🎯 Este es mi portfolio profesional como desarrollador web. Incluye mis proyectos destacados, tecnologías que manejo, experiencia laboral, formación académica y acceso a mi CV actualizado.
 
-🔗 **Demo online**: [...]()  
-📄 **Descargar CV**: [Ver PDF]()
+📄 **Descargar CV**: [Ver PDF](./public/carlos_andres_aguirre_ariza_cv.pdf)
 
 ---
 
